@@ -1,7 +1,8 @@
-# pythonlearning
+# Pythonlearning
+
 ___
 
-Proses belajar python dari dasar dan langkah-langkah apa saja yang akan dipelajari. 
+Proses belajar python dari dasar dan langkah-langkah apa saja yang akan dipelajari.
 
 1. python basic
 2. python file handling
