@@ -1,0 +1,7 @@
+Daftar Catatan belanja 
+------------------------------- 
+- Gula
+- Garam
+- Cuka
+- Tepung beras
+- Terigu \n
